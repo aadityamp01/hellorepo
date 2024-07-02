@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         diceImage = findViewById(R.id.iv_dice)
 
         //diceImage2 = findViewById(R.id.iv_dice2)
+        //diceImage2 = findViewById(R.id.iv_dice2)
 
     }
 
