@@ -48,6 +48,10 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+     private fun getRandomDiceImageChangesForGit() : Int {
+        println("AAditya");
+     }
+
     private fun getRandomDiceImage() : Int {
 
         return when ((1..6).random()) {
